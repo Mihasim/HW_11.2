@@ -1,4 +1,5 @@
 def get_title(new_string):
+    """:return string with upper register"""
     return new_string.upper()
 
 
